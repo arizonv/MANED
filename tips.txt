@@ -1,0 +1,12 @@
+git add . 
+
+git commit -m "ok"
+
+git push
+
+
+
+
+ng new
+
+ng serve --open
